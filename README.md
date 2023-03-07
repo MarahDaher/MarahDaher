@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marah Daher</h1>
+<h1 align="left">Hi 👋, I'm Marah Daher</h1>
 <h3 align="left">Front-end web developer with a proven track record of developing creative, highly functional, clean, and effective websites for clients around the world.</h3>
 
 ## 👨 &nbsp;About Me
