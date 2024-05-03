@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Marah Daher</h1>
-<h3 align="left">Front-end web developer with a proven track record of developing creative, highly functional, clean, and effective websites for clients around the world.</h3>
+<h3 align="left">Senior Front-end developer with a proven track record of developing creative, highly functional, clean, and effective websites for clients worldwide.</h3>
 
 ## 👨 &nbsp;About Me
 
-## I'm a Front-end Developer !!
-- 🔭 I’m currently working on [Smicro Project](https://www.smicro.de/en/homepage/)
+## I'm a Senior Front-end Developer !!
+- 🔭 I’m currently working at L-one Systems GmbH
 
 - 🌱 I’m currently learning **everything.**
 
